@@ -1,0 +1,4 @@
+= Vec IO
+MetroWind <chris.corsair@gmail.com>
+
+A multi-dimensional vector serialization implementation. Very WIP.
